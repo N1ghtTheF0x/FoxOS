@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "$PWD/cc/bin:${env:PATH}"
+    }
+}

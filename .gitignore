@@ -1,0 +1,9 @@
+# Compiled stuff
+
+*.o
+*.bin
+
+# CrossCompiler
+
+cc
+deps
