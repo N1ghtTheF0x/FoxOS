@@ -1,9 +1,3 @@
-# Compiled stuff
+# CMake
 
-*.o
-*.bin
-
-# CrossCompiler
-
-cc
-deps
+build

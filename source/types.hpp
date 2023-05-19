@@ -1,5 +1,5 @@
-#ifndef TYPES_HPP
-#define TYPES_HPP
+#ifndef FOXOS_TYPES_HPP
+#define FOXOS_TYPES_HPP
 
 typedef char s8;
 typedef unsigned char u8;
